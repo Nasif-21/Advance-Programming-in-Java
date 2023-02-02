@@ -1,0 +1,5 @@
+@Mywarning
+public class ClassX {
+
+
+}
